@@ -22,7 +22,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white" />
   <!-- Agrega más badges según tus skills -->
 </p>
 
@@ -49,9 +49,13 @@
 ## 📈 Gráfica de commits
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Clefox9820&theme=dark" alt="GitHub Trophies" />
-  <a href="https://github.com/Platane/snk"><img src="https://raw.githubusercontent.com/Clefox9820/Clefox9820/master/github-contribution-grid-snake.svg" alt="Contribuciones animadas" /></a>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Clefox9280/Clefox9820/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Clefox9820/Clefox9820/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Clefox9820/Clefox9820/output/github-contribution-grid-snake.svg" />
+</picture>
 
 
 ## 📫 Contáctame
