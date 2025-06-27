@@ -30,8 +30,8 @@
 
 ## 📊 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TuUsuario&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Clefox9820&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Clefox9820&layout=compact&theme=dark" />
 </p>
 
 ---
