@@ -55,7 +55,7 @@
 
 
 ## 📫 Contáctame
-- ✉️ Email: [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)
+- ✉️ Email: [raul.ibarra004@gmail.com](mailto:raul.ibarra004@gmail.com)
 - 🌐 Blog / Portfolio: [miweb.com](https://miweb.com)
 
 ---
