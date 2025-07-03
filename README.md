@@ -64,8 +64,8 @@
 
 ## 📫 Contáctame
 - ✉️ Email: [raul.ibarra004@gmail.com](mailto:raul.ibarra004@gmail.com)
-- 🌐 Blog / Portfolio: [miweb.com](https://miweb.com)
+- 🌐 Blog / Portfolio: [Clefox9820.com](https://paginawebpersonalclefox9820.netlify.app/)
 
 ---
 
-<p align="center">© 2025 Tu Nombre. Desarrollado con ❤️</p>
+<p align="center">© 2025 Raúl Ibarra Delgadillo. Desarrollado con ❤️</p>
