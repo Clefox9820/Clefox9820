@@ -24,9 +24,12 @@
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" />
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
 
   
-  <!-- Agrega más badges según tus skills -->
+ 
 </p>
 
 ---
