@@ -14,7 +14,7 @@
 - Me apasionan:
   - 🌱 Aprender constantemente nuevos frameworks/tecnologías.
   - 💡 Participar en proyectos de código abierto.
-- Actualmente trabajando en: **[Aqualert](https://github.com/ElReimonGrip/aqualert-front)**
+
 
 ---
 
